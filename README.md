@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**prithvisharmayt/prithvisharmayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Prithvi 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE '30 | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning C++, DSA, and Web Development  
+🚀 Building projects and exploring open source  
+🌱 Focused on problem-solving and continuous growth  
+🤝 Open to collaboration and learning opportunities  
+⚡ Turning ideas into code, one project at a time
+
+Tech: C++ · JavaScript · HTML · CSS · Git · GitHub
+
+Learn. Build. Contribute. Repeat.
